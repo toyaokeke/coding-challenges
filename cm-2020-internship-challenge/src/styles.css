@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  background: #faebd7 url("https://logodix.com/logo/1252801.jpg") center
+    no-repeat;
+  background-size: contain;
+}
+
+.spicy:before {
+  width: 16px;
+  height: 16px;
+  content: "";
+  background-image: url("../assets/spicy.svg");
+  background-repeat: no-repeat;
+  display: inline-block;
+  padding-right: 3px;
+  position: relative;
+  top: 2px;
+}
+
+h1 {
+  text-align: center;
+}
+section {
+  padding: 25px 100px;
+}
+
+li {
+  list-style-type: none;
+  font-weight: bold;
+  color: rgb(105, 102, 102);
+}
