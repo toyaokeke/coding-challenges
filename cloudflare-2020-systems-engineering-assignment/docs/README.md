@@ -42,7 +42,7 @@ use '--help' to see the list of commands
 
 ### `./systems-engg-cli-tool --help`
 
-**IMPORTANT:** the `--profile` command **_MUST_** be used together with the `--url` command
+**IMPORTANT:** the `--profile` command **_CAN ONLY_** be used together with the `--url` command
 
 ## Sample Ouputs
 
